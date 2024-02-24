@@ -6,3 +6,4 @@ Notebook to implement different approaches for Adversarial Attack using Python a
 ## Current methods implemented:
 
 * FGSM
+* MI-FGSM
